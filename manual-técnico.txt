@@ -1,1 +1,3 @@
 Este es el manual técnico, que deberemos subir cuando terminemos la practica.
+
+1 2 3 4 5 6 7 8 9 10
